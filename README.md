@@ -4,4 +4,7 @@ Plataforma para control de biblioteca escolar
 Descargar unicamente estos archivos:
 
 - Bibliotech.zip
-- Biblio.sql
+- bibliotech.sql
+
+El .zip contiene todo el proyecto
+El .sql es la base de datos 
