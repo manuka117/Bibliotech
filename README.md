@@ -9,6 +9,6 @@ Descargar unicamente estos archivos:
 El .zip contiene todo el proyecto
 El .sql es la base de datos 
 
-Documentación
+Documentación:
 
-Bibliotech.zip
+- Bibliotech.docx
